@@ -13,7 +13,7 @@ var monster;
 
 function preload() {
 //preload the images here
-  bg=loadImage("GamingBackground2.png");
+  bg=loadImage("gamingbackground2.png");
 }
 
 function setup() {
